@@ -14,10 +14,16 @@ Clone the project
 git clone https://github.com/BABAK0T0/WOLF3D
 ```
 
+If you don't have SDL2, run this sript, more details [here](https://wiki.libsdl.org/Installation)
+
+```
+./install_sdl2.sh
+```
+
 Then execute Makefile to create an executable
 
 ```
-make re
+make
 ```
 
 ### Running
