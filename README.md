@@ -1,6 +1,6 @@
 # FRACTOL
 
-This project consists to create a basic version of Wolfenstein using Raycasting technique.
+This project consists to create a basic version of Wolfenstein using Raycasting technique
 
 [What is a Raycasting ?](https://en.wikipedia.org/wiki/Ray_casting)
 
