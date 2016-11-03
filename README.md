@@ -1,7 +1,10 @@
 # FRACTOL
 
-This project consists to create a small fractal exploration software.
-[What is a Fractal ?](https://en.wikipedia.org/wiki/Fractal)
+This project consists to create a basic version of Wolfenstein using Raycasting technique.
+
+[What is a Raycasting ?](https://en.wikipedia.org/wiki/Ray_casting)
+
+[What is Wolfenstein ?](https://en.wikipedia.org/wiki/Wolfenstein_(2009_video_game)
 
 ### Installing
 
@@ -52,5 +55,5 @@ Develop for UNIX systems
 
 ### Built With
 
-* [Minilibx] - The framework for graphical user interface development
+* [SDL 2.0] - The framework for graphical user interface development
 
