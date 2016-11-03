@@ -51,6 +51,10 @@ KEYS | DESCRIPTION
 <kbd>→</kbd> | Explore map - RIGHT
 <kbd>R</kbd> | Reset
 
+### Sound
+
+Interstella Main Theme - Soundtrack by Hans
+
 ### Example
 
 ![wolf3d](./wolf3d.png "WOLF3D_Raycasting")
