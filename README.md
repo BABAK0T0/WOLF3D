@@ -4,7 +4,7 @@ This project consists to create a basic version of Wolfenstein using Raycasting 
 
 [What is a Raycasting ?](https://en.wikipedia.org/wiki/Ray_casting)
 
-[What is Wolfenstein ?](https://en.wikipedia.org/wiki/Wolfenstein_(2009_video_game)
+[What is Wolfenstein ?](https://en.wikipedia.org/wiki/Wolfenstein_(2009_video_game))
 
 ### Installing
 
