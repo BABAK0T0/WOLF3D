@@ -8,7 +8,7 @@ This project consists to create a small fractal exploration software.
 Clone the project
 
 ```
-git clone https://github.com/BABAK0T0/FRACTOL
+git clone https://github.com/BABAK0T0/WOLF3D
 ```
 
 Then execute Makefile to create an executable
