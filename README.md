@@ -53,7 +53,7 @@ KEYS | DESCRIPTION
 
 ### Sound
 
-Interstella Main Theme - Soundtrack by Hans
+Interstellar Main Theme - Soundtrack by Hans
 
 ### Example
 
