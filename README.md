@@ -1,4 +1,4 @@
-# FRACTOL
+# WOLF3D
 
 This project consists to create a basic version of Wolfenstein using Raycasting technique
 
