@@ -6,7 +6,7 @@
 #    By: nrandria <nrandria@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2015/11/27 11:23:48 by nrandria          #+#    #+#              #
-#    Updated: 2016/10/26 19:45:09 by nrandria         ###   ########.fr        #
+#    Updated: 2016/11/04 01:50:24 by nrandria         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -21,7 +21,7 @@ SRC_NAME = src/wolf3d.c			\
 
 OBJ_PATH	=	obj/
 
-INCLUDE 	= -Iinclude -Ilibft/include
+INCLUDE 	= -Iinclude -Ilibft/includes
 
 LDFLAGS		=	-Llibft
 LDLIBS 		= -lft
