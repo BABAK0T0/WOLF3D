@@ -31,7 +31,7 @@ make
 An executable is available in deposit, if you can't `make` the Makefile
 
 ```
-chmod u+x fractol && ./wolf3d
+chmod u+x wolf3d && ./wolf3d
 ```
 
 You could change map directly in code `src/wolf3d.c`, then execute `make` again and run
