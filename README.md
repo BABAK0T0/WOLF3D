@@ -28,10 +28,10 @@ make
 
 ### Running
 
-Run basic map
+An executable is available in deposit, if you can't `make` the Makefile
 
 ```
-./wolf3d
+chmod u+x fractol && ./wolf3d
 ```
 
 You could change map directly in code `src/wolf3d.c`, then execute `make` again and run
