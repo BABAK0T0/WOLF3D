@@ -59,10 +59,6 @@ Interstellar Main Theme - Soundtrack by Hans
 
 ![wolf3d](./wolf3d.png "WOLF3D_Raycasting")
 
-### Deployment
-
-Develop for UNIX systems
-
 ### Built With
 
 * [SDL 2.0] - The framework for graphical user interface development
