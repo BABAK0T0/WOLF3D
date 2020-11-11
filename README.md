@@ -42,14 +42,14 @@ make && ./wolf3d
 
 ### Events
 
-KEYS | DESCRIPTION
-:-- |:-:| --:
-<kbd>ESC</kbd>| Exit the program
-<kbd>↑</kbd> | Explore map - UP
-<kbd>↓</kbd> | Explore map - DOWN
-<kbd>←</kbd> | Explore map - LEFT
-<kbd>→</kbd> | Explore map - RIGHT
-<kbd>R</kbd> | Reset
+| KEYS | DESCRIPTION |
+| --- | --- |
+| <kbd>ESC</kbd>| Exit the program |
+| <kbd>↑</kbd> | Explore map - UP |
+| <kbd>↓</kbd> | Explore map - DOWN |
+| <kbd>←</kbd> | Explore map - LEFT |
+| <kbd>→</kbd> | Explore map - RIGHT |
+| <kbd>R</kbd> | Reset |
 
 ### Sound
 
@@ -61,5 +61,5 @@ Interstellar Main Theme - Soundtrack by Hans
 
 ### Built With
 
-* [SDL 2.0] - The framework for graphical user interface development
+* [SDL 2.0](https://www.libsdl.org/) - The framework for graphical user interface development
 
