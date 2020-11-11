@@ -53,7 +53,7 @@ make && ./wolf3d
 
 ### Sound
 
-Interstellar Main Theme - Soundtrack by Hans
+Interstellar Main Theme - Soundtrack by Hans Zimmer
 
 ### Example
 
